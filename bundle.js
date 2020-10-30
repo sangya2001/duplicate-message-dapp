@@ -32614,12 +32614,12 @@ module.exports={
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x8667721F414E61d12052e015D93E888603dDE2Fd",
-      "transactionHash": "0x53b59a24e9e004ea95f82791b972ef35a40480393a9a185696a2a87c316d4cc1"
+      "address": "0xC5090485Ac2528A5Dd6C06820D559D1842bcFf10",
+      "transactionHash": "0xb069429ee8e3777a42afb7140fb1ca08567ef21d9fa822b2760377d9d5a66aaa"
     }
   },
   "schemaVersion": "3.3.1",
-  "updatedAt": "2020-10-30T13:38:22.981Z",
+  "updatedAt": "2020-10-30T14:56:20.866Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
@@ -73534,6 +73534,5 @@ async function handleForm(event) {
 }
 
 form.addEventListener("submit", handleForm);
-
 
 },{"./build/contracts/HelloWorld.json":242,"web3":609}]},{},[626]);

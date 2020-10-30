@@ -65,4 +65,3 @@ async function handleForm(event) {
 }
 
 form.addEventListener("submit", handleForm);
-
